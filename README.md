@@ -1,6 +1,6 @@
 # Hey there, I'm Yusuf! 👋
 
-💬 Feel free to hit me up about VHDL, Verilog, SystemVerilog, FPGAs, VLSI, Embedded Systems, RISC-V, or anything related to Computer Architecture.
+💬 Feel free to hit me up about VHDL, Verilog, SystemVerilog, FPGAs, VLSI, Embedded Systems, RISC-V, or anything related to Hardware and Software.
 
 📫 You can find me on LinkedIn: https://www.linkedin.com/in/yusufsur/
 
